@@ -1,0 +1,7 @@
+# Python 3.7 compatible dependencies
+numpy==1.21.6
+scikit-learn==1.0.2
+scipy==1.7.3
+sqlalchemy==2.0.54
+
+# Frontend note: npm packages are in frontend/package.json
